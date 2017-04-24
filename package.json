@@ -1,0 +1,23 @@
+{
+  "name": "v-events",
+  "version": "0.1.0",
+  "description": "Vue events",
+  "main": "index.js",
+  "author": "Vladimir Saenko <iseosv@gmail.com> (https://vk.com/iseos)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iseos/v-events.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "js",
+    "events",
+    "emmit"
+  ],
+  "bugs": {
+    "url": "https://github.com/iseos/v-events/issues"
+  },
+  "homepage": "https://github.com/iseos/v-events#readme"
+}
