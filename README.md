@@ -1,11 +1,7 @@
+# DEPRECATED!
+
 # Vuejs events
 [Non Parent-Child Communication](https://vuejs.org/v2/guide/components.html#Non-Parent-Child-Communication)
-
-This package consists of two lines of code:
-```javascript
-import Vue from 'vue'
-export default new Vue()
-```
 
 ## Installing
 Using npm:
